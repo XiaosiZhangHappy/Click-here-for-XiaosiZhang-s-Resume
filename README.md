@@ -88,7 +88,7 @@ Drew all graphics in the article
 
 ### [Sub-microsecond vapor plume dynamics under different keyhole penetration regimes in deep penetration laser welding](http://iopscience.iop.org/article/10.1088/1361-6463/aa69b7)
 Co-author:Xin Chen, Shengyong Pang, Xinyu Shao, Chunming Wang, Ping Jiang and Jianzhong Xiao 	<div align = right>(04/2017)</div> 
-Published by [Journal of Physics D: Applied Physics](http://dl.acm.org/citation.cfm?id=3080878), 5th author, JPhysD-112137.R1
+Published by [Journal of Physics D: Applied Physics](), 5th author, JPhysD-112137.R1
 
 Was responsible for the preliminary researches and vapor plume data analysis. 
 
