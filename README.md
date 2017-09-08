@@ -16,7 +16,7 @@ Major： Materials Forming and Control Engineering
 ---
 
 ## Research Interests
-Optics;Laser welding
+Fiber Optics, Optical Sensors, Nonlinear Optics, laser Welding
 
 ---
 # Experience
