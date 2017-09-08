@@ -1,14 +1,14 @@
 # Xiaosi Zhang 
  - DOB: 05/17/1995     
  - Phone: +8613163234876     
- - Email: u201411305@hust.edu.cn
+ - Email: xiaosizhang@hust.edu.cn
 
 ---
 # Education
 
 ## [Huazhong University of Science and Technology](http://english.hust.edu.cn/) China, GPA: 3.9, Rank                                                                                                                                                                                                                                                                                                10/170 
 ###  Bachelor of Engineering, to be conferred in June 2018 
-<div align = right>(09/2013-06/2017)</div>
+<div align = right>(09/2014-06/2018)</div>
 School of Material Science & Engineering
 
 Major： Materials Forming and Control Engineering
@@ -16,41 +16,47 @@ Major： Materials Forming and Control Engineering
 ---
 
 ## Research Interests
-Optics;
+Optics;Laser welding
 
 ---
 # Experience
-### [Research Intern in Cullen College of Engineering, University of Houston](http://www.ece.uh.edu/)
+### [International Exchange Program at University of Houston](http://www.ece.uh.edu/)
 
-### Research project 1:Nano Structures on optic fiber
+### Research project 1: Microlithography
 <div align = right>(07/2017-10/2017)</div> 
- Learned how to build up a model of the optic fiber to increase the Internet speed by improving the optic fiber.
- Made experiments on producing Nano Structures on optic fiber and wrote paper on this topic
+By using the optical system including the Maitai HP and inspire OPO, laser that will have some 
+action with the photoresist (two photo absorption) will be created, and we hope that the width of the
+curve will be less than 1microns
+ 
 
-### Course: 
+### Course: Biophotonics (ECE6399)
 
 
 ### [State Key Laboratory of Material Forming & Mold Technology of HUST](http://english.hust.edu.cn/research/lab/1605)
-### Lab Project 1: Laser Welding and Manufacturing 
-<div align = right>(03/2015)</div> 
+
+### Lab Project 1:  The Dynamic Behavior Simulation of the Scanning Electron Beam Welding
+<div align = right>(03/2017)</div> 
+
+By the Column of Mechanical Engineering Journal
+
+### Lab Project 2: Laser Welding and Manufacturing 
+<div align = right>(12/2016)</div> 
 
 Conducted high speed video data processing and dual-beam laser welding 
 
 Finished the Algorithm using Matlab
 
 
-### Lab Project 2:  Holes and Molten Pool Dynamics Analysis under the High Speed Camera  
-<div align = right>(03/2015)</div> 
+### Lab Project 3:  Holes and Molten Pool Dynamics Analysis under the High Speed Camera  
+<div align = right>(06/2016)</div> 
 
-Read a lot of literature reviews, research to get the parameters of kinetic behavior, Conducted the parametric analysis (the speed of the growth of the crystal, and the periodic oscillation of the molten pool) to verify the welding quality.
+Read a lot of literature research reviews to get the parameters of kinetic behavior
+Conducted the parametric analysis (the speed of the growth of the crystal, and the periodic oscillation of the molten pool) to verify the welding quality.
 
-### Lab Project 3:  The Dynamic Behavior Simulation of the Scanning Electron Beam Welding
-<div align = right>(03/2015)</div> 
 
-by the Column of Mechanical Engineering Journal
 
 ### Research Project 1:  Hybrid Laser-Arc Welding
-<div align = right>(03/2015)</div> 
+<div align = right>(05/2017)</div> 
 
 Analyzed the reason of arc instability in TIG welding and MIG welding. 
 
@@ -58,22 +64,27 @@ Learned the function of laser in stabilizing the arc.
 
 
 ### Research Project 2:  Laser Welding under the Action of Magnetic Field
-<div align = right>(03/2015)</div> 
+<div align = right>(05/2017)</div> 
 
 Analyzed the changes of grain size and the grain orientation under EBSD microscope.
 
 ---
 # Publications
 
-### [Mechanisms of Vapor Plume Oscillations in Tandem Dual Beam Fiber Laser Welding](http://iopscience.iop.org/article/10.1088/1361-6463/aa69b7)
-Published on [Journal of Physics D: Applied Physics](http://dl.acm.org/citation.cfm?id=3080878), 5th author, JPhysD-112137.R1                    ,1st co-author <div align = right>(04/2017)</div> 
+### [Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding]()
+co-auther: Xin Chen, Renzhi Hu, Jianzhong Xiao
+Published on [Optics and Lasers in Engineering
+](),1st co-author 
+<div align = right>(04/2017)</div> 
 Referred to the related reviews and analyzed the parameters of the dynamic behavior of steam.
 
 Calculated the angle, height and area of the vapor shock via MATLAB. 
 
 Wrote computer programming; processed tens of thousands of experiment pictures, 
 
-Simulated software data acquisition and used Origin to process data; Drew all graphics in the article
+Simulated software data acquisition and used Origin to process data
+
+Drew all graphics in the article
 
 ### [Sub-microsecond vapor plume dynamics under different keyhole penetration regimes in deep penetration laser welding](http://iopscience.iop.org/article/10.1088/1361-6463/aa69b7)
 Co-author:Xin Chen, Shengyong Pang, Xinyu Shao, Chunming Wang, Ping Jiang and Jianzhong Xiao 	<div align = right>(04/2017)</div> 
@@ -90,19 +101,18 @@ It is well-known that distinct vapor plume dynamics occur during deep penetratio
 ---
 # Activities 
 Volunteer Teacher at rural area in Guizhou Province and Hubei Province,CN
-<div align = right>(20)</div>
+<div align = right>(07/2015-08/2015)</div>
 
 Member of Social Practice Dept. of Students Union
-		
+<div align = right>(09/2014-09/2016)</div>		
 Secretory and Editor in Duosheng Writing Club 
-		
+<div align = right>(10/2014-06/2015)</div>		
 Debate Team Member
-
-Member of Ronghua Social Worker Association
+<div align = right>(05/2016-07/2016)</div>
 
 Branch Secretory of the Class	
 
-<div align = right>(2015)</div>
+<div align = right>(09/2014-present)</div>
 
 ---
 # Honors & Awards
