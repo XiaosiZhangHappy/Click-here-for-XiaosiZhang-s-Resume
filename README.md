@@ -71,10 +71,10 @@ Analyzed the changes of grain size and the grain orientation under EBSD microsco
 ---
 # Publications
 
-### [Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding]()
+### Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding
 co-auther: Xin Chen, Renzhi Hu, Jianzhong Xiao
-Published on [Optics and Lasers in Engineering
-](),1st co-author 
+Published on Optics and Lasers in Engineering
+,1st co-author 
 <div align = right>(04/2017)</div> 
 Referred to the related reviews and analyzed the parameters of the dynamic behavior of steam.
 
