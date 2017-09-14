@@ -57,7 +57,6 @@ Conducted the parametric analysis (the speed of the growth of the crystal, and t
 
 ### Research Project 1:  Hybrid Laser-Arc Welding
 <div align = right>(05/2017)</div> 
-
 ]Analyzed the reason of arc instability in TIG welding and MIG welding. 
 
 Learned the function of laser in stabilizing the arc.
@@ -71,7 +70,7 @@ Analyzed the changes of grain size and the grain orientation under EBSD microsco
 ---
 # Publications
 
-### [Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding]
+### Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding
 co-auther: Xin Chen, Renzhi Hu, Jianzhong Xiao
 Published on Optics and Lasers in Engineering
 ,1st co-author 
