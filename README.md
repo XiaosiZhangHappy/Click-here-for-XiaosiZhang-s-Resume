@@ -48,7 +48,7 @@ Finished the Algorithm using Matlab
 
 
 ### Lab Project 3:  Holes and Molten Pool Dynamics Analysis under the High Speed Camera  
-<div align = right>(06/2016)</div> 
+]<div align = right>(06/2016)</div> 
 
 Read a lot of literature research reviews to get the parameters of kinetic behavior
 Conducted the parametric analysis (the speed of the growth of the crystal, and the periodic oscillation of the molten pool) to verify the welding quality.
@@ -58,7 +58,7 @@ Conducted the parametric analysis (the speed of the growth of the crystal, and t
 ### Research Project 1:  Hybrid Laser-Arc Welding
 <div align = right>(05/2017)</div> 
 
-Analyzed the reason of arc instability in TIG welding and MIG welding. 
+]Analyzed the reason of arc instability in TIG welding and MIG welding. 
 
 Learned the function of laser in stabilizing the arc.
 
@@ -71,7 +71,7 @@ Analyzed the changes of grain size and the grain orientation under EBSD microsco
 ---
 # Publications
 
-### Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding
+### [Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding]
 co-auther: Xin Chen, Renzhi Hu, Jianzhong Xiao
 Published on Optics and Lasers in Engineering
 ,1st co-author 
