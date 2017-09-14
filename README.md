@@ -19,8 +19,7 @@ Major： Materials Forming and Control Engineering
 Fiber Optics, Optical Sensors, Nonlinear Optics, laser Welding
 
 ---
-# Experience
-### [International Exchange Program at University of Houston](http://www.ece.uh.edu/)
+# Experience### [International Exchange Program at University of Houston](http://www.ece.uh.edu/)
 
 ### Research project 1: Microlithography
 <div align = right>(07/2017-10/2017)</div> 
@@ -48,7 +47,7 @@ Finished the Algorithm using Matlab
 
 
 ### Lab Project 3:  Holes and Molten Pool Dynamics Analysis under the High Speed Camera  
-]<div align = right>(06/2016)</div> 
+<div align = right>(06/2016)</div> 
 
 Read a lot of literature research reviews to get the parameters of kinetic behavior
 Conducted the parametric analysis (the speed of the growth of the crystal, and the periodic oscillation of the molten pool) to verify the welding quality.
@@ -57,7 +56,7 @@ Conducted the parametric analysis (the speed of the growth of the crystal, and t
 
 ### Research Project 1:  Hybrid Laser-Arc Welding
 <div align = right>(05/2017)</div> 
-]Analyzed the reason of arc instability in TIG welding and MIG welding. 
+Analyzed the reason of arc instability in TIG welding and MIG welding. 
 
 Learned the function of laser in stabilizing the arc.
 
