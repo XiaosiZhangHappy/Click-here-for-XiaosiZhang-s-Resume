@@ -19,7 +19,8 @@ Major： Materials Forming and Control Engineering
 Fiber Optics, Optical Sensors, Nonlinear Optics, laser Welding
 
 ---
-# Experience### [International Exchange Program at University of Houston](http://www.ece.uh.edu/)
+# Experience
+### [International Exchange Program at University of Houston](http://www.ece.uh.edu/)
 
 ### Research project 1: Microlithography
 <div align = right>(07/2017-10/2017)</div> 
