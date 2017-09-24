@@ -69,12 +69,13 @@ Analyzed the changes of grain size and the grain orientation under EBSD microsco
 ---
 # Publications
 
-### Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding
+### [Vapor Plume Oscillation Mechanisms in Transient Keyhole During Tandem Dual Beam Fiber Laser Welding]
+(https://www.sciencedirect.com/science/article/pii/S0143816617307340)
 co-auther: Xin Chen, Renzhi Hu, Jianzhong Xiao
-Published on Optics and Lasers in Engineering
-,1st co-author 
+Published on [Optics and Lasers in Engineering](https://www.journals.elsevier.com/optics-and-lasers-in-engineering)
+, 1st co-author 
 <div align = right>(04/2017)</div> 
-Referred to the related reviews and analyzed the parameters of the dynamic behavior of steam.
+Referred to the related reviews and analyzed the parameters of the dynamic behavior of vapor plume.
 
 Calculated the angle, height and area of the vapor shock via MATLAB. 
 
@@ -83,6 +84,9 @@ Wrote computer programming; processed tens of thousands of experiment pictures,
 Simulated software data acquisition and used Origin to process data
 
 Drew all graphics in the article
+
+Abstract:
+Vapor plume oscillations are common physical phenomena that have an important influence on the welding process in dual beam laser welding. However, until now, the oscillation mechanisms of vapor plumes remain unclear. This is primarily because mesoscale vapor plume dynamics inside a millimeter-scale, invisible, and time-dependent keyhole are difficult to quantitatively observe. In this paper, based on a developed three-dimensional (3D) comprehensive model, the vapor plume evolutions in a dynamical keyhole are directly simulated in tandem dual beam, short-wavelength laser welding. Combined with the vapor plume behaviors outside the keyhole observed by high-speed imaging, the vapor plume oscillations in dynamical keyholes at different inter-beam distances are the first, to our knowledge, to be quantitatively analyzed. It is found that vapor plume oscillations outside the keyhole mainly result from vapor plume instabilities inside the keyhole. The ejection velocity at the keyhole opening and dynamical behaviors outside the keyhole of a vapor plume both violently oscillate with the same order of magnitude of high frequency (several kHz). Furthermore, the ejection speed at the keyhole opening and ejection area outside the keyhole both decrease as the beam distance increases, while the degree of vapor plume instability first decreases and then increases with increasing beam distance from 0.6 to 1.0 mm. Moreover, the oscillation mechanisms of a vapor plume inside the dynamical keyhole irradiated by dual laser beams are investigated by thoroughly analyzing the vapor plume occurrence and flow process. The vapor plume oscillations in the dynamical keyhole are found to mainly result from violent local evaporations and severe keyhole geometry variations. In short, the quantitative method and these findings can serve as a reference for further understanding of the physical mechanisms in dual beam laser welding and of processing optimizations in industrial applications.
 
 ### [Sub-microsecond vapor plume dynamics under different keyhole penetration regimes in deep penetration laser welding](http://iopscience.iop.org/article/10.1088/1361-6463/aa69b7)
 Co-author:Xin Chen, Shengyong Pang, Xinyu Shao, Chunming Wang, Ping Jiang and Jianzhong Xiao 	<div align = right>(04/2017)</div> 
