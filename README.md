@@ -6,7 +6,7 @@
 ---
 # Education
 
-## [Huazhong University of Science and Technology](http://english.hust.edu.cn/) China, GPA: 3.9, Rank                                                                                                                                                                                                                                                                                                10/170 
+## [Huazhong University of Science and Technology](http://english.hust.edu.cn/) China, GPA: 3.89, Rank                                                                                                                                                                                                                                                                                                10/170 
 ###  Bachelor of Engineering, to be conferred in June 2018 
 <div align = right>(09/2014-06/2018)</div>
 School of Material Science & Engineering
